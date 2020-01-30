@@ -1,4 +1,4 @@
 # netflix-recommender
 Recommender system for Netflix
 
-Cyril CHHUN and Yehdhih ANA
+Cyril CHHUN and Yehdhih ANNA
